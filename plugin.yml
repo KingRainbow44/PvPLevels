@@ -16,5 +16,5 @@ commands:
     
 permissions:
   pvplevels.pvptext:
-      default: false
+      default: op
       description: "Allows creation of Floating Texts"
